@@ -1,0 +1,62 @@
+
+body {
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+	box-sizing: border-box;
+}
+
+.navbar-header {
+	height: 100px;
+}
+
+#header-nav {
+	background-color: #1c1f4c;
+	border-radius: 0;
+}
+
+
+#nav-list a:hover {
+	background-color: white;
+	color: #1c1f4c;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+h1 {
+	color: white;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+h3 {
+	color: #1c1f4c;
+	font-weight: bold;
+	font-size: 1em;
+}
+
+
+#collapsable-nav {
+	text-align: center;
+}
+
+#menu-header {
+	font-weight: bold;
+	font-size: 1.5em;
+	margin-bottom: 30px;
+}
+
+.back-to-top {
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+}
+
+.section-food {
+	background-color: #F3F3F3;
+	position: relative;
+	padding: 3px 10px 30px 10px ;
+	margin-bottom: 20px;
+}
+
